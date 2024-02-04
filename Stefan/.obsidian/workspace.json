@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Testfile.md",
+                "file": "test_folder/test.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Testfile.md",
+                "file": "test_folder/test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Testfile.md",
+                "file": "test_folder/test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Testfile.md"
+                "file": "test_folder/test.md"
               }
             }
           }
@@ -147,5 +147,9 @@
     }
   },
   "active": "d3c1e91c79fbbb40",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Testfile.md",
+    "test_folder/test.md",
+    "test_folder"
+  ]
 }
