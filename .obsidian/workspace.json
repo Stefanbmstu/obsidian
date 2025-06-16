@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "e3b1a6320e0efa1f",
+    "type": "split",
+    "children": [
+      {
+        "id": "58a64c6c7aa9091a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3165a85434695250",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "GO NINJA/Sprint 1/png/Pasted image 20250615194510.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250615194510"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4ac773a21dee2f3f",
+    "type": "split",
+    "children": [
+      {
+        "id": "2d338807302b25d5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9ef3b45ec53ee601",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "de832c618546a41d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5210b1c000499f8d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 241.5
+  },
+  "right": {
+    "id": "e05bd289febc0a67",
+    "type": "split",
+    "children": [
+      {
+        "id": "973b9c35cec2b6df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "26b32fcd1474b03d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "473f367bb5b6746e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "b08e2bb2237a0f21",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b137976f3342d8bc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "9ef3b45ec53ee601",
+  "lastOpenFiles": [
+    "Pasted image 20250615194350.png",
+    "GO NINJA/Sprint 1/Cложность алгосов.md",
+    "GO NINJA/Sprint 1/CHANNEL.canvas",
+    "GO NINJA/Sprint 1/SLICE.canvas",
+    "GO NINJA/Sprint 1/MAP.canvas",
+    "GO NINJA/Sprint 1/png/Pasted image 20250615194510.png",
+    "GO обучение/Sprint 1/Go_Каналы_Конспект.md",
+    "GO обучение/Sprint 1/Дополнения_Каналы.canvas",
+    "GO обучение/Sprint 1/CHANNEL_Refactored.canvas",
+    "GO обучение/Sprint 1/CHANNEL_Refilled.canvas",
+    "GO обучение/Sprint 1/CHANNEL_Grouped.canvas",
+    "Stefan/Untitled.canvas",
+    "Stefan/Testfile.md",
+    "GO NINJA/Sprint 1/GO Базовые принципы.md",
+    "GO обучение/Sprint 1/CHANNELS_FULL.canvas",
+    "README.md",
+    "Untitled.md",
+    "Untitled.canvas",
+    "telegram-cloud-photo-size-2-5357390253838692836-y.png",
+    "Pasted image 20250613150452.png",
+    "GO NINJA/Sprint 1/png/Pasted image 20250613151612.png",
+    "GO NINJA/Sprint 1/png/Pasted image 20250613150126.png",
+    "GO NINJA/Sprint 1/png/Pasted image 20250613151918.png",
+    "GO NINJA/Sprint 1/png/Pasted image 20250613151629.png",
+    "Pasted image 20250613151550.png",
+    "GO NINJA/Sprint 1/png/Pasted image 20250613151310.png",
+    "GO NINJA/Sprint 1/png",
+    "Pasted image 20250612153430.png.sb-f1d99b70-cafBgk",
+    "telegram-cloud-photo-size-2-5357390253838692836-y.jpg.sb-f1d99b70-gBAFri",
+    "GO обучение/Sprint 1/SLICE/slice.md",
+    "GO обучение/Sprint 1/SLICE",
+    "GO NINJA/Sprint 1",
+    "GO NINJA",
+    "Stefan/Welcome.md",
+    "Stefan/test_folder/test.md"
+  ]
+}
